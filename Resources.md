@@ -3,6 +3,8 @@
 ## articles
 
 * [Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models, Y. Xu, 2017](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/GeneralizedControlMethod_Xu_PA_2017.pdf)
+* [How Much Should We Trust Differences-In-Differences Estimates, M. Bertrand, et al, 2002](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/GeneralizedSyntheticControlforTestOpsatABIModelsAlgorithmsandInfrastructure.pdf)
+* 
 
 ## books
 
