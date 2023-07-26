@@ -2,6 +2,8 @@
 
 ## articles
 
+* [Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models, Y. Xu, 2017](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/GeneralizedControlMethod_Xu_PA_2017.pdf)
+
 ## books
 
 * [Machine Learning - Probabilistic Perspective, Kevin Murphy, 2012](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
