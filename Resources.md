@@ -18,3 +18,7 @@
 * [Mostly Harmless Econometrics: An Empiricist's Companion, Joshua Angrist, Joern-Steffen Pischke, 2008](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/MostlyHarmlessEconometricsAngristPischke2008.pdf)
 * [Statistical Models: Theory and Practice, David A. Freedman, 2009](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/MostlyHarmlessEconometricsAngristPischke2008.pdf)
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/TheDesignOfExperimentsFisher1935.pdf)
+
+## Medium
+
+* [Double Machine Learning for causal inference with Borja Velasco](https://towardsdatascience.com/double-machine-learning-for-causal-inference-78e0c6111f9d)
