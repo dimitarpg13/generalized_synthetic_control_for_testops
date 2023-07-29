@@ -22,3 +22,5 @@
 ## Medium
 
 * [Double Machine Learning for causal inference with Borja Velasco](https://towardsdatascience.com/double-machine-learning-for-causal-inference-78e0c6111f9d)
+
+* [Causal Python - Elon Musk's Tweet, Our Googling Habits, and Bayesian Synthetic Control with Aleksander Molak](https://towardsdatascience.com/causal-python-elon-musks-tweet-our-googling-habits-bayesian-synthetic-control-187114fc4aa8)
