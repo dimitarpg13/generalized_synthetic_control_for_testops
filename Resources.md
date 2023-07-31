@@ -25,6 +25,8 @@
 
 * [Causal Python - Elon Musk's Tweet, Our Googling Habits, and Bayesian Synthetic Control with Aleksander Molak](https://towardsdatascience.com/causal-python-elon-musks-tweet-our-googling-habits-bayesian-synthetic-control-187114fc4aa8)
 
+* [Econometrics in Python: Cross-Sectional Analysis with OLS with Augusto Gonzalez-Bonorino](https://agbonorino.medium.com/econometrics-in-python-cross-sectional-analysis-with-ols-aa9572e64e85)
+
 * [Introduction to Causal Inference with Mert Atli](https://medium.com/@smertatli/introduction-to-casual-inference-622c20b37aa1)
 
 * [Causal Inference - Simpson's Paradox with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-i-415538211aa1)
