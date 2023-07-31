@@ -20,12 +20,15 @@
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/TheDesignOfExperimentsFisher1935.pdf)
 
 ## Medium
+* [Indentify Causality by Difference in Differences with Chris Kuo](https://medium.com/dataman-in-ai/identify-causality-by-difference-in-differences-78ad8335fb7c)
 
 * [Double Machine Learning for causal inference with Borja Velasco](https://towardsdatascience.com/double-machine-learning-for-causal-inference-78e0c6111f9d)
 
 * [Causal Python - Elon Musk's Tweet, Our Googling Habits, and Bayesian Synthetic Control with Aleksander Molak](https://towardsdatascience.com/causal-python-elon-musks-tweet-our-googling-habits-bayesian-synthetic-control-187114fc4aa8)
 
 * [Econometrics in Python: Cross-Sectional Analysis with OLS with Augusto Gonzalez-Bonorino](https://agbonorino.medium.com/econometrics-in-python-cross-sectional-analysis-with-ols-aa9572e64e85)
+
+* [Quasi Experimental Techniques and Applicability : A Framework Approach with Ayushman Mathur](https://medium.com/@aymathur/quasi-experimental-techniques-and-applicability-a-framework-approach-d90ea25470cf)
 
 * [Introduction to Causal Inference with Mert Atli](https://medium.com/@smertatli/introduction-to-casual-inference-622c20b37aa1)
 
