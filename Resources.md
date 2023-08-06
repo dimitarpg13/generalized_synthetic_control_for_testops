@@ -19,6 +19,7 @@
 * [Mostly Harmless Econometrics: An Empiricist's Companion, Joshua Angrist, Joern-Steffen Pischke, 2008](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/MostlyHarmlessEconometricsAngristPischke2008.pdf)
 * [Statistical Models: Theory and Practice, David A. Freedman, 2009](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/MostlyHarmlessEconometricsAngristPischke2008.pdf)
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/TheDesignOfExperimentsFisher1935.pdf)
+* [Introduction to Causal Inference from Machine Learning Perspective (Lecture Notes), Brady Neal, 2020](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 
 ## Medium
 * [Indentify Causality by Difference in Differences with Chris Kuo](https://medium.com/dataman-in-ai/identify-causality-by-difference-in-differences-78ad8335fb7c)
