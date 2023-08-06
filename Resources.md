@@ -10,6 +10,7 @@
 * [Worker Compensation and Injury Duration: Evidence From Natural Experiment, B. Meyer, et al, 1995](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/WorkerCompnesationAndInjuryDurationMeyerViscusiDurbinAER1995.pdf)
 * [The Estimation of Causal Effects by Difference-In-Difference Methods, Michael Lechner, 2011](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/TheEstimationofCausalEffectsbyDIDMethods_2011_Lechner_DiD_2011_ECO%200403%20Lechner_darf%20aufs%20Netz.pdf)
 * [Double/Debiased Machine Learning for Treatment and Structural Parameters, Chernozhukov, V., et al, 2017](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/Double_Debiased_Machine_Learning_for_Treatment_and_Structural_Parameters_Chernozhoukov_2017.pdf)
+* [The Paper On How: Estimating Treatment Effects Using the Front-Door Criterion, M. Bellemare, J. Bloem, 2020](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/The_Paper_of_How-Estimating_Treatment_Effects_Using_the_Front_Door_Criterion_Bellemare_and_Bloem_2020.pdf)
 
 ## books
 
