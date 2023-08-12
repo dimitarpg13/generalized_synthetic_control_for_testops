@@ -63,3 +63,7 @@
 * [Causal Inference - Inverse Probability Weighing with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xiv-inverse-probability-weighing-f81680321427)
 
 * [Causal Inference - Mediation with Bruno Goncalves](https://medium.data4sci.com/causal-inference-part-xv-mediation-26a20212adc9)
+
+* [The Need for Causal Inference with Robert Kuebler](https://towardsdatascience.com/the-need-for-causal-inference-4c7c612dde91)
+
+* [Causal Inference: Quasi-experiments with Ian Ho](https://towardsdatascience.com/causal-inference-quasi-experiments-36d35ca5f754)
