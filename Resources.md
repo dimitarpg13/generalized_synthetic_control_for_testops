@@ -67,3 +67,9 @@
 * [The Need for Causal Inference with Robert Kuebler](https://towardsdatascience.com/the-need-for-causal-inference-4c7c612dde91)
 
 * [Causal Inference: Quasi-experiments with Ian Ho](https://towardsdatascience.com/causal-inference-quasi-experiments-36d35ca5f754)
+
+## Related resources and links
+
+* [15 Best Tools for ML Experiment Tracking and Management](https://neptune.ai/blog/best-ml-experiment-tracking-tools)
+
+* [PyExperimenter: Easily distribute experiments and track results, Tornede, 2022](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/PyExperimenter-Easily_distribute_experiments_and_track_results_Tornede_2022.pdf)
