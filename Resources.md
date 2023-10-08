@@ -72,6 +72,8 @@
 
     related article: [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guido Imbens, 2015](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
+* [A Tableau Calculus for the Analysis of Experiments with Jared Maruskin](https://towardsdatascience.com/a-tableau-calculus-for-the-analysis-of-experiments-53655dd04eb8)
+
 ## Related resources and links
 
 * [15 Best Tools for ML Experiment Tracking and Management](https://neptune.ai/blog/best-ml-experiment-tracking-tools)
