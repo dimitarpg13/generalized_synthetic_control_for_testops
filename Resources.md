@@ -1,6 +1,5 @@
 # Resources on Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control
 
-This repository is a work in progress.
 
 ## articles
 
