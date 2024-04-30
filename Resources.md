@@ -25,6 +25,8 @@
 
 * [Testing Statistical Hypotheses, E.L. Lehmann, J.P. Romano, Third Edition, Stanford U., Springer, 2005](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/Lehmann_and_Romano-TestingStatisticalHypotheses.pdf)
 
+* [Introduction to Robust Estimation and Hypothesis Testing, Rand Wilcox, 4th edition, 2017](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/introduction-to-robust-estimation-and-hypothesis-testing-4nd_ed_Rand_Wilcox_2017.pdf)
+
 * [On the Problem of the Most Efficient Tests of Statistical Hypotheses, J. Neyman, ES Pearson, 1933](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/OnTheProblemOfTheMostEfficientTestOfStatisticalHypothesesNeyman1933_copy2.pdf)
 
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/DesignOfExperimentsFisher1935.pdf)
