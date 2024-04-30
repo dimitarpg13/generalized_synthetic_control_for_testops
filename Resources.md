@@ -23,6 +23,8 @@
 
 ### Hypothesis Testing
 
+* [Testing Statistical Hypotheses, E.L. Lehmann, J.P. Romano, Third Edition, Stanford U., Springer, 2005](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/Lehmann_and_Romano-TestingStatisticalHypotheses.pdf)
+
 * [On the Problem of the Most Efficient Tests of Statistical Hypotheses, J. Neyman, ES Pearson, 1933](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/OnTheProblemOfTheMostEfficientTestOfStatisticalHypothesesNeyman1933_copy2.pdf)
 
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/DesignOfExperimentsFisher1935.pdf)
@@ -30,6 +32,8 @@
 * [The Nature of Probability, R.A. Fisher, 1958](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/NatureOfProbabilityFisher1958.pdf)
 
 * [The Fisher, Neyman-Pearson Theories of Testing Hypotheses: One Theory or Two? by E.L. Lehman, TR No. 333, 1992](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/FisherandNeymanPearsonTheoriesofTestingHypothesesOneTheoryorTwoLehman1992.pdf)
+
+* [Models and Statistical Inference: The Controversy between Fisher and Neyman-Pearson, Johannes Lenhard, 2006](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/ModelsAndStatisiticalInferenceControversyBetweenFisherAndNeymanPearson_Lenhard2006.pdf)
 
 ## books
 
