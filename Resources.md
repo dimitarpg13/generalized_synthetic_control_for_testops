@@ -29,6 +29,8 @@
 
 * [The Nature of Probability, R.A. Fisher, 1958](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/NatureOfProbabilityFisher1958.pdf)
 
+* [The Fisher, Neyman-Pearson Theories of Testing Hypotheses: One Theory or Two? by E.L. Lehman, TR No. 333, 1992](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/FisherandNeymanPearsonTheoriesofTestingHypothesesOneTheoryorTwoLehman1992.pdf)
+
 ## books
 
 * [Machine Learning - Probabilistic Perspective, Kevin Murphy, 2012](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
