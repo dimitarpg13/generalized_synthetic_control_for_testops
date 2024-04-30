@@ -27,7 +27,7 @@
 
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/DesignOfExperimentsFisher1935.pdf)
 
-* [The Nature of Porbability, R.A. Fisher, 1958](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/NatureOfProbabilityFisher1958.pdf)
+* [The Nature of Probability, R.A. Fisher, 1958](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/NatureOfProbabilityFisher1958.pdf)
 
 ## books
 
