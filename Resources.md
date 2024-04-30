@@ -37,6 +37,8 @@
 
 * [Models and Statistical Inference: The Controversy between Fisher and Neyman-Pearson, Johannes Lenhard, 2006](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/ModelsAndStatisiticalInferenceControversyBetweenFisherAndNeymanPearson_Lenhard2006.pdf)
 
+* [P values are not Error Probabilities, R. Hubbard, M.J. Bayarri, 2003](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/PValuesAreNotErrorProbabilitiesHubbard2003.pdf)
+
 ## books
 
 * [Machine Learning - Probabilistic Perspective, Kevin Murphy, 2012](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
