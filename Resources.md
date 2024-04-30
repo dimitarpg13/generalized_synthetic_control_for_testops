@@ -27,6 +27,8 @@
 
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/DesignOfExperimentsFisher1935.pdf)
 
+* [The Nature of Porbability, R.A. Fisher, 1958](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/hypothesis_testing/NatureOfProbabilityFisher1958.pdf)
+
 ## books
 
 * [Machine Learning - Probabilistic Perspective, Kevin Murphy, 2012](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
