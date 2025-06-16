@@ -43,6 +43,8 @@
 
 ## books
 
+* [Causal Inference: What If, Miguel A. Hernan, James A. Robins, 2024](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/Causal_Inference_What_If_Hernan_Robins_2jan24.pdf)
+
 * [Machine Learning - Probabilistic Perspective, Kevin Murphy, 2012](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
   
 * [Statistical Models, A.C. Davison, 2008](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/Davison_StatisticalModels.pdf)
@@ -54,6 +56,8 @@
 * [The Design of Experiments, R.A. Fisher, 1935](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/TheDesignOfExperimentsFisher1935.pdf)
   
 * [Introduction to Causal Inference from Machine Learning Perspective (Lecture Notes), Brady Neal, 2020](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
+
+* [Applied Multivariate Statistical Analysis, Richard A. Johnson and David Wichern, 2007](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/books/Applied_Multivariate_Statistical_Analysis_by_Johnson_and_Wichern.pdf)
 
 ## Medium
 * [Indentify Causality by Difference in Differences with Chris Kuo](https://medium.com/dataman-in-ai/identify-causality-by-difference-in-differences-78ad8335fb7c)
