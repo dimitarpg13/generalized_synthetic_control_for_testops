@@ -21,7 +21,7 @@
   
 * [The Paper On How: Estimating Treatment Effects Using the Front-Door Criterion, M. Bellemare, J. Bloem, 2020](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/The_Paper_of_How-Estimating_Treatment_Effects_Using_the_Front_Door_Criterion_Bellemare_and_Bloem_2020.pdf)
 
-* [Causal Primer with Examples, P. Richard Hahn and Andrew Herren, 2025](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/causal_inference/causal_primer_with_examples.pdf)
+* [Regression Adjustment for Causal Inference: Causal Primer with Examples, P. Richard Hahn and Andrew Herren, 2025](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/articles/causal_inference/causal_primer_with_examples.pdf)
 
 ### Hypothesis Testing
 
